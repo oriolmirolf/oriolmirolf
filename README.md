@@ -18,9 +18,9 @@ I'm a software developer who is passionate about writing code, solving problems,
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oriolmirolf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔥 Streak stats
+## 📊 Languages Used
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oriolmirolf&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&theme=radical)](https://github.com/oriolmirolf/github-readme-stats)
 
 ## 🗂️ Highlight Projects
 
