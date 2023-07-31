@@ -15,10 +15,6 @@ I am a multidisciplinary individual with a passion for learning and growth. With
 
 ![Oriol's GitHub stats](https://github-readme-stats.vercel.app/api?username=oriolmirolf&show_icons=true&theme=radical)
 
-## 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=oriolmirolf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📊 Languages Used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&theme=radical&hide=html)](https://github.com/oriolmirolf/github-readme-stats)
@@ -28,11 +24,6 @@ I am a multidisciplinary individual with a passion for learning and growth. With
 - Machine Learning & Deep Learning: Scikit-learn, Keras, TensorFlow
 - Data Science: Pandas, Spark, Matplotlib, Seaborn, Plotly, Numpy
 - Other: Git, Linux, Computer Vision, Frontend Development
-
-## 🗂️ Highlight Projects
-
-- [Project 1](https://github.com/oriolmirolf/project-1)
-- [Project 2](https://github.com/oriolmirolf/project-2)
 
 ## 📫 How to reach me
 
