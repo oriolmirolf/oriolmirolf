@@ -19,9 +19,9 @@ I am a multidisciplinary individual with a passion for learning and growth. With
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oriolmirolf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📊 Languages & Tools
+## 📊 Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&theme=radical)](https://github.com/oriolmirolf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&theme=radical&hide=html)](https://github.com/oriolmirolf/github-readme-stats)
 
 **Technical Skills:**
 - Programming: C, C++, Haskell, Prolog, Java, Python
