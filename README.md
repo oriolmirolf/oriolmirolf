@@ -1,7 +1,5 @@
 # Hi there, I'm Oriol Miró López-Feliu 👋
 
-![Profile views](https://gpvc.arturio.dev/oriolmirolf)
-
 I am a multidisciplinary individual with a passion for learning and growth. With a diverse skill set and experience in multiple programming languages, I am particularly interested in the field of Artificial Intelligence. Apart from my professional pursuits, I enjoy reading, playing chess, and doing sports.
 
 - 🔭 I’m currently diving deep into the world of AI and Machine Learning.
