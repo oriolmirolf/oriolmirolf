@@ -8,23 +8,6 @@ I am a passionate Artificial Intelligence Master's student at the Polytechnic Un
 
 - 🔭 **Currently:** Pursuing a Master's degree in Artificial Intelligence.
 - 🎓 **Education:** Informatics Engineering at Barcelona School of Informatics; Erasmus at the University of Edinburgh.
-- 🌱 **Learning:** Deep Learning, AI research, and working on exciting projects.
-- 👯 **Collaborate:** Open to collaborations in AI research and development.
-- 🥅 **2024 Goals:** Contribute more to open-source projects and advance in the AI field.
-- ⚡ **Fun Fact:** I'm a chess enthusiast and a tech gadget explorer.
-
-## 🛠️ Technical Skills
-
-- **Programming Languages:** C, C++, Haskell, Prolog, Java, Python
-- **Machine Learning & Deep Learning:** Scikit-learn, Keras, TensorFlow
-- **Data Science:** Pandas, Spark, Matplotlib, Seaborn, Plotly, NumPy
-- **Others:** Git, Linux, Computer Vision, Frontend Development
-
-## 🌟 Projects & Cool Things
-
-- 🌐 **[Personal Website](https://oriolmirolf.github.io/):** My portfolio and blog where I share insights on AI and technology.
-- ♟️ **Chess AI:** Developing an AI that plays chess using advanced algorithms.
-- 🎮 **AI Games:** Creating small games to experiment with AI concepts.
 
 ## 📈 GitHub Stats
 
