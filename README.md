@@ -1,27 +1,59 @@
-# Hi there, I'm Oriol Miró López-Feliu 👋
+<!-- Profile README for github.com/oriolmirolf -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=oriolmirolf&color=blueviolet)
-
-I am a passionate Artificial Intelligence Master's student at the Polytechnic University of Catalonia (UPC), University of Barcelona (UB), and Rovira i Virgili University (URV). With a strong background in Informatics Engineering and a diverse skill set, I'm enthusiastic about pushing the boundaries of AI and Machine Learning. When I'm not coding, you can find me reading, playing chess, or engaging in sports.
-
-## 🚀 About Me
-
-- 🔭 **Currently:** Pursuing a Master's degree in Artificial Intelligence.
-- 🎓 **Education:** Informatics Engineering at Barcelona School of Informatics; Erasmus at the University of Edinburgh.
-
-## 📈 GitHub Stats
-
+<h1 align="center">Hi, I'm Oriol Miró 👋</h1>
 <p align="center">
-  <img src="https://github-readme-stats-oriol.vercel.app/api?username=oriolmirolf&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=3" alt="Oriol's GitHub stats" />
-  <img src="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&theme=radical&hide=html&count_private=true&v=3" alt="Top Languages" />
+  AI Master's student (UPC · UB · URV) • ML/RL • Systems for ML (K8s · SLURM · OpenStack)
+  <br/>
+  <a href="https://oriolmirolf.github.io">Website</a> ·
+  <a href="https://www.linkedin.com/in/oriol-miro/">LinkedIn</a> ·
+  <a href="https://github.com/oriolmirolf">GitHub</a>
 </p>
-
-## 📫 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/-Oriol%20Miró%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriol-miro/)](https://www.linkedin.com/in/oriol-miro/)
-[![GitHub](https://img.shields.io/github/followers/oriolmirolf?label=GitHub&style=social)](https://github.com/oriolmirolf)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=github&logoColor=white&link=https://oriolmirolf.github.io/)](https://oriolmirolf.github.io/)
 
 ---
 
-⭐️ From [Oriol Miró López-Feliu](https://github.com/oriolmirolf)
+### 🔎 About
+- 🎓 MSc in Artificial Intelligence (UPC · UB · URV). BSc in Informatics Engineering (FIB).
+- 🧠 Interests: Reinforcement Learning, Recommender Systems, Efficient/Responsible AI.
+- 🛠️ I like building **infrastructure for AI**: Kubernetes, SLURM, OpenStack, Docker, CI/CD.
+- ♟️ Off-code: reading, chess, and sports.
+
+---
+
+### 🔬 Featured Work
+<a href="https://github.com/oriolmirolf/interlink-autolauncher-plugin">
+  <img src="https://github-readme-stats-oriol.vercel.app/api/pin/?username=oriolmirolf&repo=interlink-autolauncher-plugin&v=3" alt="Pin: interlink-autolauncher-plugin"/>
+</a>
+
+> *Autolauncher plugin for InterLink: job orchestration bridging HPC (SLURM) and Kubernetes.*
+
+<!-- Add more pins by duplicating the block above and changing repo=... -->
+
+---
+
+### 📈 Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats-oriol.vercel.app/api?username=oriolmirolf&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=1800&v=4"
+    alt="GitHub stats for Oriol"
+  />
+  <img
+    src="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&theme=radical&hide=html&count_private=true&cache_seconds=1800&v=4"
+    alt="Top languages for Oriol"
+  />
+</p>
+
+---
+
+### 🧰 Toolbox (short list)
+Python · PyTorch · Linux · Docker · Kubernetes · SLURM · OpenStack · GitHub Actions · LaTeX
+
+---
+
+### 📫 Contact
+- LinkedIn: <a href="https://www.linkedin.com/in/oriol-miro/">/in/oriol-miro/</a>
+- Website: <a href="https://oriolmirolf.github.io">oriolmirolf.github.io</a>
+
+<!-- Optional visitor badge -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=oriolmirolf&color=blueviolet" alt="Profile views"/>
+</p>
