@@ -12,9 +12,8 @@ I am a passionate Artificial Intelligence Master's student at the Polytechnic Un
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-tau-ten-62.vercel.app/api?username=oriolmirolf&show_icons=true&theme=radical" alt="Oriol's GitHub stats" />
-  <img src="https://github-readme-stats-tau-ten-62.vercel.app/?user=oriolmirolf&theme=radical" alt="Oriol's GitHub Streak" />
-  <img src="https://github-readme-stats-tau-ten-62.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&theme=radical&hide=html" alt="Top Languages" />
+  <img src="https://YOUR-DEPLOY.vercel.app/api?username=oriolmirolf&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1" />
+  <img src="https://YOUR-DEPLOY.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&theme=radical&hide=html&v=1" />
 </p>
 
 ## 📫 Get in Touch
