@@ -50,4 +50,4 @@ I am a passionate Artificial Intelligence Master's student at the Polytechnic Un
 
 ---
 
-⭐️ From [Oriol Miró López-Feliu](https://github.com/oriolmirolf)
+⭐️ [Personal Webpage](https://oriolmirolf.github.io)
