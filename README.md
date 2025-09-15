@@ -29,15 +29,15 @@ I am a passionate Artificial Intelligence Master's student at the Polytechnic Un
   <!-- Top languages: compact, wider set, still counts private -->
   <picture>
     <source
-      srcset="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&langs_count=8&hide=html&count_private=true&theme=github_dark&cache_seconds=86400&v=5"
+      srcset="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&hide=jupyter%20notebook&layout=compact&langs_count=8&hide=html&count_private=true&theme=github_dark&cache_seconds=86400&v=5"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&langs_count=8&hide=html&count_private=true&cache_seconds=86400&v=5"
+      srcset="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&hide=jupyter%20notebook&layout=compact&langs_count=8&hide=html&count_private=true&cache_seconds=86400&v=5"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img alt="Top languages"
-      src="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&langs_count=8&hide=html&count_private=true&v=5" />
+      src="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&hide=jupyter%20notebook&layout=compact&langs_count=8&hide=html&count_private=true&v=5" />
   </picture>
 </p>
 
