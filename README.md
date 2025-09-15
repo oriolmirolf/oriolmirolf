@@ -26,19 +26,10 @@ I am a passionate Artificial Intelligence Master's student at the Polytechnic Un
       src="https://github-readme-stats-oriol.vercel.app/api?username=oriolmirolf&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&number_format=long&v=5" />
   </picture>
 
-  <!-- Top languages: compact, wider set, still counts private -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&langs_count=8&hide=Jupyter%20Notebook,html&count_private=true&theme=github_dark&cache_seconds=86400&v=5"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&langs_count=8&hide=Jupyter%20Notebook,html&count_private=true&cache_seconds=86400&v=5"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img alt="Top languages"
-      src="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&langs_count=8&hide=Jupyter%20Notebook,html&count_private=true&v=5" />
-  </picture>
+  <!-- Top languages: compact, dark mode only -->
+  <img alt="Top languages"
+    src="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&langs_count=8&hide=Jupyter%20Notebook,html&count_private=true&theme=github_dark&cache_seconds=86400&v=5" />
+
 
 
 
