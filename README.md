@@ -27,10 +27,10 @@ I am a passionate Artificial Intelligence Master's student at the Polytechnic Un
   </picture>
 
   <!-- Top languages: compact, dark mode only -->
-  <img alt="Top languages"
-    src="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&langs_count=8&hide=Jupyter%20Notebook,html&count_private=true&theme=github_dark&cache_seconds=86400&v=5" />
-
-
+  <picture>
+    <img alt="Top languages"
+      src="https://github-readme-stats-oriol.vercel.app/api/top-langs/?username=oriolmirolf&layout=compact&langs_count=8&hide=Jupyter%20Notebook,html&count_private=true&theme=github_dark&cache_seconds=86400&v=5" />
+  </picture>
 
 
 ## 📫 Get in Touch
